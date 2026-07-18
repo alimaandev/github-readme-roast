@@ -19,6 +19,9 @@ const description =
 export const metadata: Metadata = {
   title,
   description,
+  verification: {
+    google: "5nLJtITwDEofAn4bHUoXbgkP1HO_BFV7IRiGgObTULI",
+  },
   openGraph: {
     title,
     description,
